@@ -47,5 +47,5 @@ The cam ring moves by a hydraulic piston which is controlled by another solenoid
 The actual timing is calculated by the VP tooth signal phase relationship to the CKP-derived signal. 
 A software servo control loop adjusts the PWM to match the computed timing with the desired timing contained in the usual look-up tables.
 
-For now, the TPS, MAP and CKP are all that's required. The CMP is optional. A CAN interface is on the board and a CAN interface is being developed
+For now, the TPS, MAP and CKP are all that's required. The CMP is optional. A CAN interface is on the board and a CAN interface is being developed.
 The Schematic and PCB were made with KiCad. The code has some low-level stuff for some of the peripherals that at the time were not supported by STM32duino.
