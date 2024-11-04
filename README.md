@@ -1,4 +1,4 @@
-#VP44 EXPLORER
+# VP44 EXPLORER
 My project replaces the control board that sits on top of the pump with a remote board.
 The project uses an STM32f303 Nucleo dev. Board and I used Arduino IDE.
 A custom PCB was made in two parts. One is the main logic and sensor interface. The second part is the 
