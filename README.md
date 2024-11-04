@@ -1,9 +1,5 @@
-<<<<<<< HEAD
-#VP44 EXPLORER
-
-=======
 # VP44 EXPLORER
->>>>>>> fe6509790b3d448ec6e58b786a3a1968e5f489a8
+
 My project replaces the control board that sits on top of the pump with a remote board.
 The project uses an STM32f303 Nucleo dev. Board and I used Arduino IDE.
 A custom PCB was made in two parts. One is the main logic and sensor interface. The second part is the 
@@ -24,6 +20,7 @@ The software detects the index tooth region and resets a tooth edge counter to z
 On the tooth edge 19 of the B phase the radial injection plungers are at their maximum extension.
 As they follow the cam ring into compression it's at this position the injection solenoid valve must be fully transitioned to the closed position.
 This is the start of injection SOI. After a variable amount of degrees, the valve de-energizes this is the end of injection EOI.
+
 Since the solenoid has deadtime on both turn on and turn off the switching must occur before edge 19 or EOI actually happens.
 This is done by computing shaft position, velocity, and acceleration to predict the relative time from a current tooth edge to edge 19.
 Obviously, the closer we are to the edge 19 event the better the prediction will be, but at higher RPMs the deadtime of the solenoid results in the required prediction to
