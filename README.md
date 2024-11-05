@@ -51,3 +51,5 @@ A software servo control loop adjusts the PWM to match the computed timing with 
 
 For now, the TPS, MAP and CKP are all that's required. The CMP is optional. A CAN interface is on the board and a CAN interface is being developed.
 The Schematic and PCB were made with KiCad. The code has some low-level stuff for some of the peripherals that at the time were not supported by STM32duino.
+
+# See it run [HERE](https://www.youtube.com/watch?v=DHwnkv7ZLJk)
