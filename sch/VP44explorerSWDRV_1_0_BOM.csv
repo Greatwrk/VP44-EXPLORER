@@ -3,7 +3,7 @@
 "C2, C8","100uF","Capacitor_THT:CP_Radial_D5.0mm_P2.50mm","~","","","","","2"
 "C3, C13, C14","0.1uF","Capacitor_THT:C_Disc_D5.0mm_W2.5mm_P5.00mm","~","","","","","3"
 "C6, C7","470uF","Capacitor_THT:CP_Radial_D8.0mm_P5.00mm","~","","","","","2"
-"C9-C12","1uF","Capacitor_THT:C_Rect_L16.5mm_W7.0mm_P15.00mm_MKT","~","","","","","4"
+"C9-C12","1uF","Capacitor_THT:C_Rect_L16.5mm_W7.0mm_P15.00mm_MKT","DigiKey EF2105-ND, MFR# ECQ-E2105KF hi quality film cap only","","","","","4"
 "D1","1N914B","Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal","~","","D","1=K 2=A","","1"
 "D2","5.6V","Diode_THT:D_DO-41_SOD81_P10.16mm_Horizontal","~","","","","","1"
 "D3","D_Schottky_AKA","Package_TO_SOT_THT:TO-220-3_Vertical","~","","","","","1"
