@@ -52,4 +52,8 @@ A software servo control loop adjusts the PWM to match the computed timing with 
 For now, the TPS, MAP and CKP are all that's required. The CMP is optional. A CAN interface is on the board and a CAN interface is being developed.
 The Schematic and PCB were made with KiCad. The code has some low-level stuff for some of the peripherals that at the time were not supported by STM32duino.
 
+If you build this I suggest using a 2 ohm 50 W resistor in place of the fuel solenoid for testing with a scope. The resistor can later be placed
+in series with the solenoid to protect it on the bench while sweep testing at RPMs and Fuel levels. Listen for any malfunctions.
+The power transistors must be isolated from the heatsink with silicon insulators. Always test isolation with an DVM.
+
 # See it run [HERE](https://www.youtube.com/watch?v=DHwnkv7ZLJk)
