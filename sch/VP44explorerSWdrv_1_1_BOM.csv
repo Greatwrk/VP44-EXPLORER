@@ -16,7 +16,7 @@
 "J2","BAT","Connector_Wire:SolderWire-2sqmm_1x01_D2mm_OD3.9mm","~","","","","","1"
 "J3","TCV","Connector_Wire:SolderWire-2sqmm_1x01_D2mm_OD3.9mm","~","","","","","1"
 "J4","INJ+","Connector_Wire:SolderWire-2sqmm_1x01_D2mm_OD3.9mm","~","","","","","1"
-"J5","Conn_01x12","Connector_PinHeader_2.54mm:PinHeader_1x12_P2.54mm_Vertical","~","","","","","1"
+"J5","Conn_01x12","Connector_PinHeader_2.54mm:PinHeader_1x12_P2.54mm_Right angle female","~ S5448-ND","","","","","1"
 "J6","INJ","Connector_Wire:SolderWire-2sqmm_1x01_D2mm_OD3.9mm","~","INJ-","","","","1"
 "L1","L_Ferrite","Inductor_THT:L_Toroid_Vertical_L26.7mm_W14.0mm_P10.16mm_Pulse_D","Amazon.com DC 300W 20A step down buck converter, re used coil","","","","","1"
 "L2","TCV_SOL","","~","","","","","1"
