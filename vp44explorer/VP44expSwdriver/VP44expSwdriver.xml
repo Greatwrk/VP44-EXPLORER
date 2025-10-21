@@ -1,0 +1,1153 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<export version="E">
+  <design>
+    <source>C:\Users\Marcus\Desktop\vp44explorer\VP44expSwdriver\VP44expSwdriver.kicad_sch</source>
+    <date>11/23/2024 6:31:13 PM</date>
+    <tool>Eeschema (7.0.0)</tool>
+    <sheet number="1" name="/" tstamps="/">
+      <title_block>
+        <title>VP44_DRV_SW</title>
+        <company/>
+        <rev>A1</rev>
+        <date>2023-03-25</date>
+        <source>VP44expSwdriver.kicad_sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+        <comment number="5" value=""/>
+        <comment number="6" value=""/>
+        <comment number="7" value=""/>
+        <comment number="8" value=""/>
+        <comment number="9" value=""/>
+      </title_block>
+    </sheet>
+  </design>
+  <components>
+    <comp ref="C1">
+      <value>1uF</value>
+      <footprint>Capacitor_THT:C_Disc_D5.1mm_W3.2mm_P5.00mm</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="VP44expSwdriver.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>c78c0c37-805a-48d8-9401-00fe672f4764</tstamps>
+    </comp>
+    <comp ref="C2">
+      <value>100uF</value>
+      <footprint>Capacitor_THT:CP_Radial_D5.0mm_P2.50mm</footprint>
+      <libsource lib="Device" part="C_Polarized_US" description="Polarized capacitor, US symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="VP44expSwdriver.kicad_sch"/>
+      <property name="ki_description" value="Polarized capacitor, US symbol"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>dda24b66-bc92-4613-9ee2-b8d88fcec231</tstamps>
+    </comp>
+    <comp ref="C3">
+      <value>0.1uF</value>
+      <footprint>Capacitor_THT:C_Disc_D5.0mm_W2.5mm_P5.00mm</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="VP44expSwdriver.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>7dc4fc91-12db-4e64-b223-c0918b229cf2</tstamps>
+    </comp>
+    <comp ref="C4">
+      <value>1uF</value>
+      <footprint>Capacitor_THT:C_Disc_D5.1mm_W3.2mm_P5.00mm</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="VP44expSwdriver.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>f23b52b3-b572-4ef6-b48f-97419f4fc164</tstamps>
+    </comp>
+    <comp ref="C5">
+      <value>1uF</value>
+      <footprint>Capacitor_THT:C_Disc_D5.1mm_W3.2mm_P5.00mm</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="VP44expSwdriver.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>2e27157d-06b9-4345-9adb-aebdbdba51bb</tstamps>
+    </comp>
+    <comp ref="C6">
+      <value>470uF</value>
+      <footprint>Capacitor_THT:CP_Radial_D8.0mm_P5.00mm</footprint>
+      <libsource lib="Device" part="C_Polarized_US" description="Polarized capacitor, US symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="VP44expSwdriver.kicad_sch"/>
+      <property name="ki_description" value="Polarized capacitor, US symbol"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>db911598-038f-41d8-ab59-2a18821c6ff2</tstamps>
+    </comp>
+    <comp ref="C7">
+      <value>470uF</value>
+      <footprint>Capacitor_THT:CP_Radial_D8.0mm_P5.00mm</footprint>
+      <libsource lib="Device" part="C_Polarized_US" description="Polarized capacitor, US symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="VP44expSwdriver.kicad_sch"/>
+      <property name="ki_description" value="Polarized capacitor, US symbol"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>49e7dc23-ded9-492d-b135-367858094824</tstamps>
+    </comp>
+    <comp ref="C8">
+      <value>100uF</value>
+      <footprint>Capacitor_THT:CP_Radial_D5.0mm_P2.50mm</footprint>
+      <libsource lib="Device" part="C_Polarized_US" description="Polarized capacitor, US symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="VP44expSwdriver.kicad_sch"/>
+      <property name="ki_description" value="Polarized capacitor, US symbol"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>ba0a649a-6cca-4d09-8556-48f5a1e035b4</tstamps>
+    </comp>
+    <comp ref="C9">
+      <value>1uF</value>
+      <footprint>Capacitor_THT:C_Rect_L16.5mm_W7.0mm_P15.00mm_MKT</footprint>
+      <datasheet>DigiKey EF2105-ND, MFR# ECQ-E2105KF hi quality film cap only</datasheet>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="VP44expSwdriver.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>c9a69150-4146-47a6-bf78-6acacf39c2bd</tstamps>
+    </comp>
+    <comp ref="C10">
+      <value>1uF</value>
+      <footprint>Capacitor_THT:C_Rect_L16.5mm_W7.0mm_P15.00mm_MKT</footprint>
+      <datasheet>DigiKey EF2105-ND, MFR# ECQ-E2105KF hi quality film cap only</datasheet>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="VP44expSwdriver.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>68da2dae-82e3-4586-b9ef-e26347c394c5</tstamps>
+    </comp>
+    <comp ref="C11">
+      <value>1uF</value>
+      <footprint>Capacitor_THT:C_Rect_L16.5mm_W7.0mm_P15.00mm_MKT</footprint>
+      <datasheet>DigiKey EF2105-ND, MFR# ECQ-E2105KF hi quality film cap only</datasheet>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="VP44expSwdriver.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>6ebb14d9-002c-4a01-aef2-c51544bd5c0d</tstamps>
+    </comp>
+    <comp ref="C12">
+      <value>1uF</value>
+      <footprint>Capacitor_THT:C_Rect_L16.5mm_W7.0mm_P15.00mm_MKT</footprint>
+      <datasheet>DigiKey EF2105-ND, MFR# ECQ-E2105KF hi quality film cap only</datasheet>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="VP44expSwdriver.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>70811fb6-0ecd-4d88-b227-71beb5d0cce1</tstamps>
+    </comp>
+    <comp ref="C13">
+      <value>0.1uF</value>
+      <footprint>Capacitor_THT:C_Disc_D5.0mm_W2.5mm_P5.00mm</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="VP44expSwdriver.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>5b8d54e4-3c90-4224-95b6-adc6587b437b</tstamps>
+    </comp>
+    <comp ref="C14">
+      <value>0.1uF</value>
+      <footprint>Capacitor_THT:C_Disc_D5.0mm_W2.5mm_P5.00mm</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="VP44expSwdriver.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>300e7679-316b-4a99-8f27-defb5c829596</tstamps>
+    </comp>
+    <comp ref="D1">
+      <value>1N914B</value>
+      <footprint>Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal</footprint>
+      <fields>
+        <field name="Sim.Device">D</field>
+        <field name="Sim.Pins">1=K 2=A</field>
+      </fields>
+      <libsource lib="Device" part="D" description="Diode"/>
+      <property name="Sim.Device" value="D"/>
+      <property name="Sim.Pins" value="1=K 2=A"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="VP44expSwdriver.kicad_sch"/>
+      <property name="ki_description" value="Diode"/>
+      <property name="ki_keywords" value="diode"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>3921a9ed-4c31-4c49-b7f1-bb07a170b8fc</tstamps>
+    </comp>
+    <comp ref="D2">
+      <value>5.6V</value>
+      <footprint>Diode_THT:D_DO-41_SOD81_P10.16mm_Horizontal</footprint>
+      <libsource lib="Device" part="D_Zener" description="Zener diode"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="VP44expSwdriver.kicad_sch"/>
+      <property name="ki_description" value="Zener diode"/>
+      <property name="ki_keywords" value="diode"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>5129f62a-41f8-433c-8581-0c50688e522c</tstamps>
+    </comp>
+    <comp ref="D3">
+      <value>STPS20H100CT</value>
+      <footprint>Package_TO_SOT_THT:TO-220-3_Vertical</footprint>
+      <libsource lib="Device" part="D_Schottky_AKA" description="Schottky diode, anode on pins 1 and 3"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="VP44expSwdriver.kicad_sch"/>
+      <property name="ki_description" value="Schottky diode, anode on pins 1 and 3"/>
+      <property name="ki_keywords" value="diode Schottky SCHDPAK"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>f9c99952-49dd-44d5-9c89-37dea2b4b0df</tstamps>
+    </comp>
+    <comp ref="D4">
+      <value>39V_5W</value>
+      <footprint>Diode_THT:D_DO-201AD_P15.24mm_Horizontal</footprint>
+      <libsource lib="Device" part="D_Zener" description="Zener diode"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="VP44expSwdriver.kicad_sch"/>
+      <property name="ki_description" value="Zener diode"/>
+      <property name="ki_keywords" value="diode"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>f0cf14cf-90ae-4453-bb43-57e63d3546d0</tstamps>
+    </comp>
+    <comp ref="F2">
+      <value>Polyfuse 1A</value>
+      <footprint>Capacitor_THT:C_Disc_D8.0mm_W2.5mm_P5.00mm</footprint>
+      <datasheet>MF-RHT 100-2CT-ND PTC 30V IA</datasheet>
+      <libsource lib="Device" part="Polyfuse" description="Resettable fuse, polymeric positive temperature coefficient"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="VP44expSwdriver.kicad_sch"/>
+      <property name="ki_description" value="Resettable fuse, polymeric positive temperature coefficient"/>
+      <property name="ki_keywords" value="resettable fuse PTC PPTC polyfuse polyswitch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>06a0797b-cf94-462f-a88e-aac56565ee38</tstamps>
+    </comp>
+    <comp ref="F3">
+      <value> Polyfuse 2.5A</value>
+      <footprint>Capacitor_THT:C_Disc_D8.0mm_W2.5mm_P5.00mm</footprint>
+      <datasheet>LITTLE FUSE POLY SWITCH 2.5A</datasheet>
+      <libsource lib="Device" part="Polyfuse" description="Resettable fuse, polymeric positive temperature coefficient"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="VP44expSwdriver.kicad_sch"/>
+      <property name="ki_description" value="Resettable fuse, polymeric positive temperature coefficient"/>
+      <property name="ki_keywords" value="resettable fuse PTC PPTC polyfuse polyswitch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>f15e7531-b4ff-425d-bfeb-8e62157a42bd</tstamps>
+    </comp>
+    <comp ref="J1">
+      <value>GND</value>
+      <footprint>Connector_Wire:SolderWire-2sqmm_1x01_D2mm_OD3.9mm</footprint>
+      <libsource lib="" part="Conn_01x01_Pin_3" description="Generic connector, single row, 01x01, script generated"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="VP44expSwdriver.kicad_sch"/>
+      <property name="ki_description" value="Generic connector, single row, 01x01, script generated"/>
+      <property name="ki_keywords" value="connector"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>7105c25d-64a6-4797-a8ed-31531e343238</tstamps>
+    </comp>
+    <comp ref="J2">
+      <value>BAT</value>
+      <footprint>Connector_Wire:SolderWire-2sqmm_1x01_D2mm_OD3.9mm</footprint>
+      <libsource lib="" part="Conn_01x01_Pin_4" description="Generic connector, single row, 01x01, script generated"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="VP44expSwdriver.kicad_sch"/>
+      <property name="ki_description" value="Generic connector, single row, 01x01, script generated"/>
+      <property name="ki_keywords" value="connector"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>60b41c5f-4fa8-4507-b43d-ba575de7f9c7</tstamps>
+    </comp>
+    <comp ref="J3">
+      <value>TCV</value>
+      <footprint>Connector_Wire:SolderWire-2sqmm_1x01_D2mm_OD3.9mm</footprint>
+      <libsource lib="" part="Conn_01x01_Pin_2" description="Generic connector, single row, 01x01, script generated"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="VP44expSwdriver.kicad_sch"/>
+      <property name="ki_description" value="Generic connector, single row, 01x01, script generated"/>
+      <property name="ki_keywords" value="connector"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>500fb8b5-76d4-45e6-9261-ac65540dfd81</tstamps>
+    </comp>
+    <comp ref="J4">
+      <value>INJ+</value>
+      <footprint>Connector_Wire:SolderWire-2sqmm_1x01_D2mm_OD3.9mm</footprint>
+      <libsource lib="Connector" part="Conn_01x01_Pin" description="Generic connector, single row, 01x01, script generated"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="VP44expSwdriver.kicad_sch"/>
+      <property name="ki_description" value="Generic connector, single row, 01x01, script generated"/>
+      <property name="ki_keywords" value="connector"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>be0af688-6bbb-44d9-a86e-b36d7a2ff327</tstamps>
+    </comp>
+    <comp ref="J5">
+      <value>Conn_01x12</value>
+      <footprint>Connector_PinHeader_2.54mm:PinHeader_1x12_P2.54mm_Vertical</footprint>
+      <libsource lib="Connector_Generic" part="Conn_01x12" description="Generic connector, single row, 01x12, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="VP44expSwdriver.kicad_sch"/>
+      <property name="ki_description" value="Generic connector, single row, 01x12, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="ki_keywords" value="connector"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>a2cd35ac-baf6-47bc-bdd1-4f29be2f5286</tstamps>
+    </comp>
+    <comp ref="J6">
+      <value>INJ</value>
+      <footprint>Connector_Wire:SolderWire-2sqmm_1x01_D2mm_OD3.9mm</footprint>
+      <fields>
+        <field name="Field4">INJ-</field>
+      </fields>
+      <libsource lib="" part="Conn_01x01_Pin_1" description="Generic connector, single row, 01x01, script generated"/>
+      <property name="Field4" value="INJ-"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="VP44expSwdriver.kicad_sch"/>
+      <property name="ki_description" value="Generic connector, single row, 01x01, script generated"/>
+      <property name="ki_keywords" value="connector"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>981319ed-9f61-4c96-a450-cb453033591e</tstamps>
+    </comp>
+    <comp ref="L1">
+      <value>L_Ferrite</value>
+      <footprint>Inductor_THT:L_Toroid_Vertical_L26.7mm_W14.0mm_P10.16mm_Pulse_D</footprint>
+      <datasheet>Amazon.com DC 300W 20A step down buck converter, re used coil</datasheet>
+      <libsource lib="Device" part="L_Ferrite" description="Inductor with ferrite core"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="VP44expSwdriver.kicad_sch"/>
+      <property name="ki_description" value="Inductor with ferrite core"/>
+      <property name="ki_keywords" value="inductor choke coil reactor magnetic"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>a10dc40d-8eac-4aaa-938f-9a9007ffab8e</tstamps>
+    </comp>
+    <comp ref="Q1">
+      <value>MJF44H11G</value>
+      <footprint>Package_TO_SOT_THT:TO-220-3_Vertical</footprint>
+      <datasheet>https://www.onsemi.com/pub/Collateral/BDW93C-D.pdf</datasheet>
+      <libsource lib="Transistor_BJT" part="BDW93A" description="12A Ic, 60V Vce, Power Darlington NPN Transistor, TO-220"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="VP44expSwdriver.kicad_sch"/>
+      <property name="ki_description" value="12A Ic, 60V Vce, Power Darlington NPN Transistor, TO-220"/>
+      <property name="ki_keywords" value="Darlington NPN Transistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>2ad8c332-b465-4093-b61e-3f380bc850f4</tstamps>
+    </comp>
+    <comp ref="Q2">
+      <value>IRF135B203</value>
+      <footprint>Package_TO_SOT_THT:TO-220-3_Vertical</footprint>
+      <datasheet>https://www.st.com/resource/en/datasheet/stp40n60m2.pdf</datasheet>
+      <fields>
+        <field name="Sim.Device">NMOS</field>
+        <field name="Sim.Pins">1=D 2=G 3=S</field>
+        <field name="Sim.Type">VDMOS</field>
+      </fields>
+      <libsource lib="Transistor_FET" part="STB40N60M2" description="34A Id, 600V Vds, N-Channel MDmesh M2 MOSFET, 78mOhm Ron, D2PAK"/>
+      <property name="Sim.Device" value="NMOS"/>
+      <property name="Sim.Type" value="VDMOS"/>
+      <property name="Sim.Pins" value="1=D 2=G 3=S"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="VP44expSwdriver.kicad_sch"/>
+      <property name="ki_description" value="34A Id, 600V Vds, N-Channel MDmesh M2 MOSFET, 78mOhm Ron, D2PAK"/>
+      <property name="ki_keywords" value="N-Channel MOSFET"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>5511c7bf-4e42-4a7c-a2f1-a72a1fa0055c</tstamps>
+    </comp>
+    <comp ref="Q3">
+      <value>STP40NF10L</value>
+      <footprint>Package_TO_SOT_THT:TO-220-3_Vertical</footprint>
+      <datasheet>https://www.st.com/resource/en/datasheet/stp40n60m2.pdf</datasheet>
+      <fields>
+        <field name="Sim.Device">NMOS</field>
+        <field name="Sim.Pins">1=D 2=G 3=S</field>
+        <field name="Sim.Type">VDMOS</field>
+      </fields>
+      <libsource lib="Transistor_FET" part="STB40N60M2" description="34A Id, 600V Vds, N-Channel MDmesh M2 MOSFET, 78mOhm Ron, D2PAK"/>
+      <property name="Sim.Device" value="NMOS"/>
+      <property name="Sim.Type" value="VDMOS"/>
+      <property name="Sim.Pins" value="1=D 2=G 3=S"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="VP44expSwdriver.kicad_sch"/>
+      <property name="ki_description" value="34A Id, 600V Vds, N-Channel MDmesh M2 MOSFET, 78mOhm Ron, D2PAK"/>
+      <property name="ki_keywords" value="N-Channel MOSFET"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>08125bca-4761-49cf-999b-17e68cca2217</tstamps>
+    </comp>
+    <comp ref="Q4">
+      <value>STP40NF10L</value>
+      <footprint>Package_TO_SOT_THT:TO-220-3_Vertical</footprint>
+      <datasheet>https://www.st.com/resource/en/datasheet/stp40n60m2.pdf</datasheet>
+      <fields>
+        <field name="Sim.Device">NMOS</field>
+        <field name="Sim.Pins">1=D 2=G 3=S</field>
+        <field name="Sim.Type">VDMOS</field>
+      </fields>
+      <libsource lib="Transistor_FET" part="STB40N60M2" description="34A Id, 600V Vds, N-Channel MDmesh M2 MOSFET, 78mOhm Ron, D2PAK"/>
+      <property name="Sim.Device" value="NMOS"/>
+      <property name="Sim.Type" value="VDMOS"/>
+      <property name="Sim.Pins" value="1=D 2=G 3=S"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="VP44expSwdriver.kicad_sch"/>
+      <property name="ki_description" value="34A Id, 600V Vds, N-Channel MDmesh M2 MOSFET, 78mOhm Ron, D2PAK"/>
+      <property name="ki_keywords" value="N-Channel MOSFET"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>7c925083-bc04-4aef-b1ef-b433ed6a3a09</tstamps>
+    </comp>
+    <comp ref="R1">
+      <value>220R</value>
+      <footprint>Resistor_THT:R_Axial_DIN0309_L9.0mm_D3.2mm_P15.24mm_Horizontal</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="VP44expSwdriver.kicad_sch"/>
+      <property name="ki_description" value="Resistor"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>23cf97fa-db35-400c-b923-be618348981e</tstamps>
+    </comp>
+    <comp ref="R2">
+      <value>27R</value>
+      <footprint>Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P7.62mm_Horizontal</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="VP44expSwdriver.kicad_sch"/>
+      <property name="ki_description" value="Resistor"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>d3edb9c6-82e8-4392-b445-a606dbc73d62</tstamps>
+    </comp>
+    <comp ref="R3">
+      <value>10K</value>
+      <footprint>Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P7.62mm_Horizontal</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="VP44expSwdriver.kicad_sch"/>
+      <property name="ki_description" value="Resistor"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>58ed3522-c69c-4815-ba36-0567364ddb2f</tstamps>
+    </comp>
+    <comp ref="R4">
+      <value>27R</value>
+      <footprint>Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P7.62mm_Horizontal</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="VP44expSwdriver.kicad_sch"/>
+      <property name="ki_description" value="Resistor"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>dcaea812-adaa-46fa-88b0-a2239ea487f6</tstamps>
+    </comp>
+    <comp ref="R5">
+      <value>10K</value>
+      <footprint>Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P7.62mm_Horizontal</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="VP44expSwdriver.kicad_sch"/>
+      <property name="ki_description" value="Resistor"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>e564348f-d38b-4763-9e6a-de7a23c053d3</tstamps>
+    </comp>
+    <comp ref="R6">
+      <value>330R</value>
+      <footprint>Resistor_THT:R_Axial_DIN0309_L9.0mm_D3.2mm_P15.24mm_Horizontal</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="VP44expSwdriver.kicad_sch"/>
+      <property name="ki_description" value="Resistor"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>02df17f6-a3ff-4a9d-a80e-7fc44a4fa38e</tstamps>
+    </comp>
+    <comp ref="R7">
+      <value>100R</value>
+      <footprint>Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P7.62mm_Horizontal</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="VP44expSwdriver.kicad_sch"/>
+      <property name="ki_description" value="Resistor"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>e5f63bae-758f-4a2c-8d30-7936fb860111</tstamps>
+    </comp>
+    <comp ref="R8">
+      <value>10K</value>
+      <footprint>Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P7.62mm_Horizontal</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="VP44expSwdriver.kicad_sch"/>
+      <property name="ki_description" value="Resistor"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>e7686e11-a12e-4be2-aa77-6cc2ad35cb4d</tstamps>
+    </comp>
+    <comp ref="R9">
+      <value>330R</value>
+      <footprint>Resistor_THT:R_Axial_DIN0309_L9.0mm_D3.2mm_P15.24mm_Horizontal</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="VP44expSwdriver.kicad_sch"/>
+      <property name="ki_description" value="Resistor"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>10417928-a016-4f20-bc59-7d3dedbb4ddd</tstamps>
+    </comp>
+    <comp ref="R10">
+      <value>1R_1W</value>
+      <footprint>Resistor_THT:R_Axial_DIN0414_L11.9mm_D4.5mm_P20.32mm_Horizontal</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="VP44expSwdriver.kicad_sch"/>
+      <property name="ki_description" value="Resistor"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>a877a10f-44f2-4b29-b7b6-7e9440b066a9</tstamps>
+    </comp>
+    <comp ref="R11">
+      <value>10K</value>
+      <footprint>Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P7.62mm_Horizontal</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="VP44expSwdriver.kicad_sch"/>
+      <property name="ki_description" value="Resistor"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>805d78a2-7ba6-41fd-b264-f0f0e120a400</tstamps>
+    </comp>
+    <comp ref="R12">
+      <value>10K</value>
+      <footprint>Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P7.62mm_Horizontal</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="VP44expSwdriver.kicad_sch"/>
+      <property name="ki_description" value="Resistor"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>f55ed9c9-e9d9-4f41-bd0a-a8658d726723</tstamps>
+    </comp>
+    <comp ref="R13">
+      <value>10K</value>
+      <footprint>Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P7.62mm_Horizontal</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="VP44expSwdriver.kicad_sch"/>
+      <property name="ki_description" value="Resistor"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>7f81eb16-1c11-4276-b8d1-d6b5480748f2</tstamps>
+    </comp>
+    <comp ref="R14">
+      <value>10K</value>
+      <footprint>Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P7.62mm_Horizontal</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="VP44expSwdriver.kicad_sch"/>
+      <property name="ki_description" value="Resistor"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>e351885e-b2f9-46ec-8609-f21e7e14f69e</tstamps>
+    </comp>
+    <comp ref="U1">
+      <value>MCP14E7</value>
+      <footprint>Package_DIP:DIP-8_W7.62mm</footprint>
+      <datasheet>http://ww1.microchip.com/downloads/en/DeviceDoc/MCP14E7.pdf</datasheet>
+      <libsource lib="Driver_FET" part="MCP14E7" description="Dual 3A-Peak MOSFET Driver, non-inverting outputs, DIP-8"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="VP44expSwdriver.kicad_sch"/>
+      <property name="ki_description" value="Dual 3A-Peak MOSFET Driver, non-inverting outputs, DIP-8"/>
+      <property name="ki_keywords" value="Driver, Dual MOSFET"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>40100f95-4c20-47b3-a5a3-cf28978e41fc</tstamps>
+    </comp>
+    <comp ref="U2">
+      <value>ACS712xLCTR-20A</value>
+      <footprint>Package_SO:SOIC-8_3.9x4.9mm_P1.27mm</footprint>
+      <datasheet>http://www.allegromicro.com/~/media/Files/Datasheets/ACS712-Datasheet.ashx?la=en</datasheet>
+      <libsource lib="Sensor_Current" part="ACS712xLCTR-20A" description="±20A Bidirectional Hall-Effect Current Sensor, +5.0V supply, 100mV/A, SOIC-8"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="VP44expSwdriver.kicad_sch"/>
+      <property name="ki_description" value="±20A Bidirectional Hall-Effect Current Sensor, +5.0V supply, 100mV/A, SOIC-8"/>
+      <property name="ki_keywords" value="hall effect current monitor sensor isolated"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>cce2a93e-0b35-4bf7-b76f-2611904ac86d</tstamps>
+    </comp>
+  </components>
+  <libparts>
+    <libpart lib="" part="Conn_01x01_Pin_1">
+      <description>Generic connector, single row, 01x01, script generated</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>Connector*:*_1x??_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">Conn_01x01_Pin</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="Pin_1" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="" part="Conn_01x01_Pin_2">
+      <description>Generic connector, single row, 01x01, script generated</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>Connector*:*_1x??_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">Conn_01x01_Pin</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="Pin_1" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="" part="Conn_01x01_Pin_3">
+      <description>Generic connector, single row, 01x01, script generated</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>Connector*:*_1x??_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">Conn_01x01_Pin</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="Pin_1" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="" part="Conn_01x01_Pin_4">
+      <description>Generic connector, single row, 01x01, script generated</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>Connector*:*_1x??_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">Conn_01x01_Pin</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="Pin_1" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Connector" part="Conn_01x01_Pin">
+      <description>Generic connector, single row, 01x01, script generated</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>Connector*:*_1x??_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">Conn_01x01_Pin</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="Pin_1" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Connector_Generic" part="Conn_01x12">
+      <description>Generic connector, single row, 01x12, script generated (kicad-library-utils/schlib/autogen/connector/)</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>Connector*:*_1x??_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">Conn_01x12</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="Pin_1" type="passive"/>
+        <pin num="2" name="Pin_2" type="passive"/>
+        <pin num="3" name="Pin_3" type="passive"/>
+        <pin num="4" name="Pin_4" type="passive"/>
+        <pin num="5" name="Pin_5" type="passive"/>
+        <pin num="6" name="Pin_6" type="passive"/>
+        <pin num="7" name="Pin_7" type="passive"/>
+        <pin num="8" name="Pin_8" type="passive"/>
+        <pin num="9" name="Pin_9" type="passive"/>
+        <pin num="10" name="Pin_10" type="passive"/>
+        <pin num="11" name="Pin_11" type="passive"/>
+        <pin num="12" name="Pin_12" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="C">
+      <description>Unpolarized capacitor</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>C_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">C</field>
+        <field name="Value">C</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="C_Polarized_US">
+      <description>Polarized capacitor, US symbol</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>CP_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">C</field>
+        <field name="Value">C_Polarized_US</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="D">
+      <description>Diode</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>TO-???*</fp>
+        <fp>*_Diode_*</fp>
+        <fp>*SingleDiode*</fp>
+        <fp>D_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">D</field>
+        <field name="Value">D</field>
+        <field name="Datasheet">~</field>
+        <field name="Sim.Device">D</field>
+        <field name="Sim.Pins">1=K 2=A</field>
+      </fields>
+      <pins>
+        <pin num="1" name="K" type="passive"/>
+        <pin num="2" name="A" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="D_Schottky_AKA">
+      <description>Schottky diode, anode on pins 1 and 3</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>TO-???*</fp>
+        <fp>*_Diode_*</fp>
+        <fp>*SingleDiode*</fp>
+        <fp>D_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">D</field>
+        <field name="Value">D_Schottky_AKA</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="A" type="input"/>
+        <pin num="2" name="K" type="passive"/>
+        <pin num="3" name="A" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="D_Zener">
+      <description>Zener diode</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>TO-???*</fp>
+        <fp>*_Diode_*</fp>
+        <fp>*SingleDiode*</fp>
+        <fp>D_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">D</field>
+        <field name="Value">D_Zener</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="K" type="passive"/>
+        <pin num="2" name="A" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="Fuse">
+      <description>Fuse</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>*Fuse*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">F</field>
+        <field name="Value">Fuse</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="L_Ferrite">
+      <description>Inductor with ferrite core</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>Choke_*</fp>
+        <fp>*Coil*</fp>
+        <fp>Inductor_*</fp>
+        <fp>L_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">L</field>
+        <field name="Value">L_Ferrite</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="passive"/>
+        <pin num="2" name="2" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="L_Iron">
+      <description>Inductor with iron core</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>Choke_*</fp>
+        <fp>*Coil*</fp>
+        <fp>Inductor_*</fp>
+        <fp>L_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">L</field>
+        <field name="Value">L_Iron</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="passive"/>
+        <pin num="2" name="2" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="Polyfuse">
+      <description>Resettable fuse, polymeric positive temperature coefficient</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>*polyfuse*</fp>
+        <fp>*PTC*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">F</field>
+        <field name="Value">Polyfuse</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="R">
+      <description>Resistor</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>R_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">R</field>
+        <field name="Value">R</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Driver_FET" part="MCP14E7">
+      <description>Dual 3A-Peak MOSFET Driver, non-inverting outputs, DIP-8</description>
+      <docs>http://ww1.microchip.com/downloads/en/DeviceDoc/MCP14E7.pdf</docs>
+      <footprints>
+        <fp>WDFN*1EP*3x2mm*P0.5mm*EP1.3x1.4mm*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">MCP14E7</field>
+        <field name="Footprint">Package_DIP:DIP-8_W7.62mm</field>
+        <field name="Datasheet">http://ww1.microchip.com/downloads/en/DeviceDoc/MCP14E7.pdf</field>
+      </fields>
+      <pins>
+        <pin num="1" name="ENA" type="input"/>
+        <pin num="2" name="INA" type="input"/>
+        <pin num="3" name="GND" type="power_in"/>
+        <pin num="4" name="INB" type="input"/>
+        <pin num="5" name="OUTB" type="output"/>
+        <pin num="6" name="V+" type="power_in"/>
+        <pin num="7" name="OUTA" type="output"/>
+        <pin num="8" name="ENB" type="input"/>
+      </pins>
+    </libpart>
+    <libpart lib="Sensor_Current" part="ACS712xLCTR-20A">
+      <description>±20A Bidirectional Hall-Effect Current Sensor, +5.0V supply, 100mV/A, SOIC-8</description>
+      <docs>http://www.allegromicro.com/~/media/Files/Datasheets/ACS712-Datasheet.ashx?la=en</docs>
+      <footprints>
+        <fp>SOIC*3.9x4.9m*P1.27mm*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">ACS712xLCTR-20A</field>
+        <field name="Footprint">Package_SO:SOIC-8_3.9x4.9mm_P1.27mm</field>
+        <field name="Datasheet">http://www.allegromicro.com/~/media/Files/Datasheets/ACS712-Datasheet.ashx?la=en</field>
+      </fields>
+      <pins>
+        <pin num="1" name="IP+" type="passive"/>
+        <pin num="2" name="IP+" type="passive"/>
+        <pin num="3" name="IP-" type="passive"/>
+        <pin num="4" name="IP-" type="passive"/>
+        <pin num="5" name="GND" type="power_in"/>
+        <pin num="6" name="FILTER" type="passive"/>
+        <pin num="7" name="VIOUT" type="output"/>
+        <pin num="8" name="VCC" type="power_in"/>
+      </pins>
+    </libpart>
+    <libpart lib="Transistor_BJT" part="BDW93A">
+      <description>12A Ic, 60V Vce, Power Darlington NPN Transistor, TO-220</description>
+      <docs>https://www.onsemi.com/pub/Collateral/BDW93C-D.pdf</docs>
+      <footprints>
+        <fp>TO?220*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">Q</field>
+        <field name="Value">BDW93A</field>
+        <field name="Footprint">Package_TO_SOT_THT:TO-220-3_Vertical</field>
+        <field name="Datasheet">https://www.onsemi.com/pub/Collateral/BDW93C-D.pdf</field>
+      </fields>
+      <pins>
+        <pin num="1" name="B" type="input"/>
+        <pin num="2" name="C" type="passive"/>
+        <pin num="3" name="E" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Transistor_FET" part="STB40N60M2">
+      <description>34A Id, 600V Vds, N-Channel MDmesh M2 MOSFET, 78mOhm Ron, D2PAK</description>
+      <docs>https://www.st.com/resource/en/datasheet/stp40n60m2.pdf</docs>
+      <footprints>
+        <fp>TO?263*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">Q</field>
+        <field name="Value">STB40N60M2</field>
+        <field name="Footprint">Package_TO_SOT_SMD:TO-263-2</field>
+        <field name="Datasheet">https://www.st.com/resource/en/datasheet/stp40n60m2.pdf</field>
+      </fields>
+      <pins>
+        <pin num="1" name="G" type="passive"/>
+        <pin num="2" name="D" type="passive"/>
+        <pin num="3" name="S" type="passive"/>
+      </pins>
+    </libpart>
+  </libparts>
+  <libraries>
+    <library logical="Connector">
+      <uri>C:\Program Files\KiCad\7.0\share\kicad\symbols\/Connector.kicad_sym</uri>
+    </library>
+    <library logical="Connector_Generic">
+      <uri>C:\Program Files\KiCad\7.0\share\kicad\symbols\/Connector_Generic.kicad_sym</uri>
+    </library>
+    <library logical="Device">
+      <uri>C:\Program Files\KiCad\7.0\share\kicad\symbols\/Device.kicad_sym</uri>
+    </library>
+    <library logical="Driver_FET">
+      <uri>C:/Users/Marcus/Desktop/PCroll/032523nudrvsw/Driver_FET_CUSTOM.kicad_sym</uri>
+    </library>
+    <library logical="Sensor_Current">
+      <uri>C:\Program Files\KiCad\7.0\share\kicad\symbols\/Sensor_Current.kicad_sym</uri>
+    </library>
+    <library logical="Transistor_BJT">
+      <uri>C:\Program Files\KiCad\7.0\share\kicad\symbols\/Transistor_BJT.kicad_sym</uri>
+    </library>
+    <library logical="Transistor_FET">
+      <uri>C:\Program Files\KiCad\7.0\share\kicad\symbols\/Transistor_FET.kicad_sym</uri>
+    </library>
+  </libraries>
+  <nets>
+    <net code="1" name="+5V">
+      <node ref="C13" pin="1" pintype="passive"/>
+      <node ref="C8" pin="1" pintype="passive"/>
+      <node ref="J5" pin="7" pinfunction="Pin_7" pintype="passive"/>
+      <node ref="J5" pin="8" pinfunction="Pin_8" pintype="passive"/>
+      <node ref="Q1" pin="3" pinfunction="E" pintype="passive"/>
+      <node ref="R11" pin="1" pintype="passive"/>
+      <node ref="U2" pin="8" pinfunction="VCC" pintype="power_in"/>
+    </net>
+    <net code="2" name="+12V">
+      <node ref="C1" pin="2" pintype="passive"/>
+      <node ref="C4" pin="1" pintype="passive"/>
+      <node ref="D1" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="J5" pin="12" pinfunction="Pin_12" pintype="passive"/>
+      <node ref="U1" pin="6" pinfunction="V+" pintype="power_in"/>
+    </net>
+    <net code="3" name="GND">
+      <node ref="C1" pin="1" pintype="passive"/>
+      <node ref="C10" pin="2" pintype="passive"/>
+      <node ref="C11" pin="2" pintype="passive"/>
+      <node ref="C12" pin="1" pintype="passive"/>
+      <node ref="C13" pin="2" pintype="passive"/>
+      <node ref="C14" pin="2" pintype="passive"/>
+      <node ref="C2" pin="2" pintype="passive"/>
+      <node ref="C3" pin="1" pintype="passive"/>
+      <node ref="C4" pin="2" pintype="passive"/>
+      <node ref="C5" pin="1" pintype="passive"/>
+      <node ref="C6" pin="2" pintype="passive"/>
+      <node ref="C7" pin="2" pintype="passive"/>
+      <node ref="C8" pin="2" pintype="passive"/>
+      <node ref="D2" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="D4" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="J1" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="J5" pin="10" pinfunction="Pin_10" pintype="passive"/>
+      <node ref="J5" pin="9" pinfunction="Pin_9" pintype="passive"/>
+      <node ref="Q2" pin="3" pinfunction="S" pintype="passive"/>
+      <node ref="Q4" pin="3" pinfunction="S" pintype="passive"/>
+      <node ref="R12" pin="2" pintype="passive"/>
+      <node ref="R13" pin="2" pintype="passive"/>
+      <node ref="R14" pin="2" pintype="passive"/>
+      <node ref="R3" pin="2" pintype="passive"/>
+      <node ref="R5" pin="2" pintype="passive"/>
+      <node ref="R8" pin="2" pintype="passive"/>
+      <node ref="U1" pin="3" pinfunction="GND" pintype="power_in"/>
+      <node ref="U2" pin="5" pinfunction="GND" pintype="power_in"/>
+    </net>
+    <net code="10" name="Net-(D1-K)">
+      <node ref="D1" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="R1" pin="1" pintype="passive"/>
+    </net>
+    <net code="11" name="Net-(D2-K)">
+      <node ref="C5" pin="2" pintype="passive"/>
+      <node ref="D2" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="Q1" pin="1" pinfunction="B" pintype="input"/>
+      <node ref="R1" pin="2" pintype="passive"/>
+    </net>
+    <net code="12" name="Net-(D3-K)">
+      <node ref="C6" pin="1" pintype="passive"/>
+      <node ref="C7" pin="1" pintype="passive"/>
+      <node ref="C9" pin="2" pintype="passive"/>
+      <node ref="D3" pin="2" pinfunction="K" pintype="passive"/>
+      <node ref="J4" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="R6" pin="1" pintype="passive"/>
+      <node ref="R9" pin="1" pintype="passive"/>
+    </net>
+    <net code="13" name="Net-(D4-K)">
+      <node ref="D4" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="R10" pin="2" pintype="passive"/>
+    </net>
+    <net code="14" name="Net-(J2-Pin_1)">
+      <node ref="F2" pin="1" pintype="passive"/>
+      <node ref="J2" pin="1" pinfunction="Pin_1" pintype="passive"/>
+    </net>
+    <net code="15" name="Net-(J3-Pin_1)">
+      <node ref="F3" pin="2" pintype="passive"/>
+      <node ref="J3" pin="1" pinfunction="Pin_1" pintype="passive"/>
+    </net>
+    <net code="16" name="Net-(J5-Pin_1)">
+      <node ref="J5" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="R13" pin="1" pintype="passive"/>
+      <node ref="U1" pin="2" pinfunction="INA" pintype="input"/>
+    </net>
+    <net code="17" name="Net-(J5-Pin_2)">
+      <node ref="J5" pin="2" pinfunction="Pin_2" pintype="passive"/>
+      <node ref="R14" pin="1" pintype="passive"/>
+      <node ref="U1" pin="4" pinfunction="INB" pintype="input"/>
+    </net>
+    <net code="18" name="Net-(J5-Pin_3)">
+      <node ref="J5" pin="3" pinfunction="Pin_3" pintype="passive"/>
+      <node ref="U2" pin="7" pinfunction="VIOUT" pintype="output"/>
+    </net>
+    <net code="19" name="Net-(J5-Pin_4)">
+      <node ref="J5" pin="4" pinfunction="Pin_4" pintype="passive"/>
+      <node ref="J6" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="U2" pin="1" pinfunction="IP+" pintype="passive"/>
+      <node ref="U2" pin="2" pinfunction="IP+" pintype="passive"/>
+    </net>
+    <net code="20" name="Net-(J5-Pin_5)">
+      <node ref="J5" pin="5" pinfunction="Pin_5" pintype="passive"/>
+      <node ref="R7" pin="1" pintype="passive"/>
+      <node ref="R8" pin="1" pintype="passive"/>
+    </net>
+    <net code="21" name="Net-(Q1-C)">
+      <node ref="C2" pin="1" pintype="passive"/>
+      <node ref="F2" pin="2" pintype="passive"/>
+      <node ref="Q1" pin="2" pinfunction="C" pintype="passive"/>
+    </net>
+    <net code="22" name="Net-(Q2-D)">
+      <node ref="D3" pin="1" pinfunction="A" pintype="input"/>
+      <node ref="D3" pin="3" pinfunction="A" pintype="passive"/>
+      <node ref="L1" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="Q2" pin="2" pinfunction="D" pintype="passive"/>
+    </net>
+    <net code="23" name="Net-(Q2-G)">
+      <node ref="Q2" pin="1" pinfunction="G" pintype="passive"/>
+      <node ref="R2" pin="1" pintype="passive"/>
+    </net>
+    <net code="24" name="Net-(Q3-D)">
+      <node ref="C10" pin="1" pintype="passive"/>
+      <node ref="C11" pin="1" pintype="passive"/>
+      <node ref="Q3" pin="2" pinfunction="D" pintype="passive"/>
+      <node ref="R10" pin="1" pintype="passive"/>
+      <node ref="R6" pin="2" pintype="passive"/>
+      <node ref="R9" pin="2" pintype="passive"/>
+      <node ref="U2" pin="3" pinfunction="IP-" pintype="passive"/>
+      <node ref="U2" pin="4" pinfunction="IP-" pintype="passive"/>
+    </net>
+    <net code="25" name="Net-(Q3-G)">
+      <node ref="Q3" pin="1" pinfunction="G" pintype="passive"/>
+      <node ref="R4" pin="1" pintype="passive"/>
+    </net>
+    <net code="26" name="Net-(Q3-S)">
+      <node ref="C9" pin="1" pintype="passive"/>
+      <node ref="L1" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="Q3" pin="3" pinfunction="S" pintype="passive"/>
+    </net>
+    <net code="27" name="Net-(Q4-D)">
+      <node ref="C12" pin="2" pintype="passive"/>
+      <node ref="F3" pin="1" pintype="passive"/>
+      <node ref="Q4" pin="2" pinfunction="D" pintype="passive"/>
+    </net>
+    <net code="28" name="Net-(Q4-G)">
+      <node ref="Q4" pin="1" pinfunction="G" pintype="passive"/>
+      <node ref="R7" pin="2" pintype="passive"/>
+    </net>
+    <net code="29" name="Net-(U1-ENA)">
+      <node ref="C3" pin="2" pintype="passive"/>
+      <node ref="U1" pin="1" pinfunction="ENA" pintype="input"/>
+      <node ref="U1" pin="8" pinfunction="ENB" pintype="input"/>
+    </net>
+    <net code="30" name="Net-(U1-OUTA)">
+      <node ref="R2" pin="2" pintype="passive"/>
+      <node ref="R3" pin="1" pintype="passive"/>
+      <node ref="U1" pin="7" pinfunction="OUTA" pintype="output"/>
+    </net>
+    <net code="31" name="Net-(U1-OUTB)">
+      <node ref="R4" pin="2" pintype="passive"/>
+      <node ref="R5" pin="1" pintype="passive"/>
+      <node ref="U1" pin="5" pinfunction="OUTB" pintype="output"/>
+    </net>
+    <net code="32" name="Net-(U2-FILTER)">
+      <node ref="C14" pin="1" pintype="passive"/>
+      <node ref="R11" pin="2" pintype="passive"/>
+      <node ref="R12" pin="1" pintype="passive"/>
+      <node ref="U2" pin="6" pinfunction="FILTER" pintype="passive"/>
+    </net>
+    <net code="33" name="unconnected-(J5-Pin_6-Pad6)">
+      <node ref="J5" pin="6" pinfunction="Pin_6" pintype="passive+no_connect"/>
+    </net>
+    <net code="34" name="unconnected-(J5-Pin_11-Pad11)">
+      <node ref="J5" pin="11" pinfunction="Pin_11" pintype="passive+no_connect"/>
+    </net>
+  </nets>
+</export>
